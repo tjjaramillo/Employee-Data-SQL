@@ -9,7 +9,7 @@ Inspected the CSVs and sketched out an ERD of the tables.
 
 #### Data Engineering
 
-* Use the information you have to create a table schema for each of the six CSV files.
+* Used the information I had to create a table schema for each of the six CSV files.
 
 * Imported each CSV file into the corresponding SQL table.
 
