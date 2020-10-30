@@ -5,7 +5,7 @@ For this project I utilized Data Modeling, Data Engineering, and Data Analysis i
 
 Inspected the CSVs and sketched out an ERD of the tables.
 
-![ERD](EmployeeSQL/ERD Sketch.png)
+![ERD](images/ERD.png)
 
 #### Data Engineering
 
