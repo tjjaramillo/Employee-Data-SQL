@@ -39,4 +39,6 @@ Once you have a complete database, do the following:
 
 11. Created a bar chart of average salary by title.
 
+![Bar1](images/dep_salary_bar.png)
+![Bar2](images/emp_salary_hist.png)
 
