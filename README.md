@@ -1,4 +1,4 @@
-# sql-challenge
+# Employee Data Analysis Using SQL
 For this project I utilized Data Modeling, Data Engineering, and Data Analysis in order to research past employee data for a company. I designed tables to hold data in CSVs, imported the CSVs into a SQL database, and answered questions about the data.
 
 #### Data Modeling
